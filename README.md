@@ -1,5 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub Profile!👋
+## About Me
+Dedicated developer with a versatile approach, embracing diverse languages and a passion for continuous learning. Thoughtful code architect adhering to SOLID principles and CLEAN coding practices. Adaptable, research-driven problem solver with a quality-focused mindset. Lifelong learner committed to exploring diverse languages and staying current with industry trends. A collaborative team player known for thoughtful problem-solving, active listening, and empathetic consideration of all aspects before making decisions. Advocate for thorough testing, from unit to integration, ensuring reliable software. Enthusiastic about structured processes like Agile and DevOps, aligning development with logical reasoning. Client-centric mindset and adept problem solver, crafting effective solutions. Upholds quality standards through comprehensive testing and a commitment to excellence.
 
+- 📄 [View my Full CV](link-to-your-cv) or a [Plain Text Version](https://github.com/ametekohy/ametekohy/blob/main/CV.md)
+- 👔 [LinkedIn](https://www.linkedin.com/in/arthur-metekohy/)
+- 🌐 [Personal Website](http://arthurmetekohy.nl)
+- 📧 [Contact Me](a.metekohy@outlook.com)
 <!--
 **ametekohy/ametekohy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
