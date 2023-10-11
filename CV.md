@@ -1,4 +1,4 @@
-# Curriculum vitae of Arthur Metekohy
+# Curriculum vitae of Arthur Metekohy (2023)
 ## Software Developer
 Dedicated developer with a versatile approach, embracing diverse languages and a passion for continuous learning. 
 Thoughtful code architect adhering to SOLID principles and CLEAN coding practices. Adaptable, research-driven problem solver with a quality-focused mindset. Lifelong learner committed to exploring diverse languages and staying current with industry trends. A collaborative team player known for thoughtful problem-solving, active listening, and empathetic consideration of all aspects before making decisions.
